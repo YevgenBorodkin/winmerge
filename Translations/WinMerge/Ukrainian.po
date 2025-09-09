@@ -10,9 +10,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WinMerge\n"
 "Report-Msgid-Bugs-To: https://github.com/WinMerge/winmerge/issues/\n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-09-04 14:13+0200\n"
-"Last-Translator: Serhii Horichenko <mail@sgg.im>\n"
+"POT-Creation-Date: 2025-08-24 14:39+0000\n"
+"PO-Revision-Date: 2025-09-08 12:53-0700\n"
+"Last-Translator: Yevgen Borodkin <zheka.borodkin@gmail.com>\n"
 "Language-Team: Ukrainian <winmerge-translate@lists.sourceforge.net>\n"
 "Language: uk_UA\n"
 "MIME-Version: 1.0\n"
@@ -23,7 +23,6 @@ msgstr ""
 "X-Generator: Poedit 3.6\n"
 
 #. LANGUAGE, SUBLANGUAGE
-#, c-format
 msgid "LANG_ENGLISH, SUBLANG_ENGLISH_US"
 msgstr "LANG_UKRAINIAN, SUBLANG_DEFAULT"
 
@@ -75,7 +74,6 @@ msgstr "Скопіювати обрані відмінності (з серед�
 msgid "Copy Selected Diff (Right) to Clipboard\tCtrl+&3"
 msgstr "Скопіювати обрані відмінності (з правої панелі) до буферу\tCtrl+&3"
 
-#, c-format
 msgid "Select Line &Difference\tF4"
 msgstr "Позначити від&мінності\tF4"
 
@@ -103,7 +101,6 @@ msgstr "&Вставити"
 msgid "&Scripts"
 msgstr "С&крипти"
 
-#, c-format
 msgid "< Empty >"
 msgstr "< Порожньо >"
 
@@ -111,10 +108,12 @@ msgid "&Go to...\tCtrl+G"
 msgstr "Перейти до рядка...\tCtrl+G"
 
 msgid "Go to Moved Line Between Left and Middle\tCtrl+Shift+G"
-msgstr "Перейти до переміщеного рядка між лівою та середньою панеллю\tCtrl+Shift+G"
+msgstr ""
+"Перейти до переміщеного рядка між лівою та середньою панеллю\tCtrl+Shift+G"
 
 msgid "Go to Moved Line Between Middle and Right\tCtrl+Alt+G"
-msgstr "Перейти до переміщеного рядка між середньою та правою панеллю\tCtrl+Alt+G"
+msgstr ""
+"Перейти до переміщеного рядка між середньою та правою панеллю\tCtrl+Alt+G"
 
 msgid "Op&en"
 msgstr "&Відкрити"
@@ -185,6 +184,7 @@ msgstr "Віддзеркалити г&оризонтально"
 msgid "&Zoom"
 msgstr "Ма&сштаб"
 
+#, c-format
 msgid "25%"
 msgstr "25%"
 
@@ -195,31 +195,24 @@ msgid "Zoom &Out\tCtrl+-"
 msgstr "З&меншити\tCtrl+-"
 
 #. Zoom to normal
-#, c-format
 msgid "&Normal\tCtrl+*"
 msgstr "&Звичайний\tCtrl+*"
 
-#, c-format
 msgid "&Overlay"
 msgstr "&Оверлей"
 
-#, c-format
 msgid "&Alpha Blend"
 msgstr "&Альфа-змішування"
 
-#, c-format
 msgid "Alpha &Blend Animation"
 msgstr "Анімація альфа-&змішування"
 
-#, c-format
 msgid "Dragging &Mode"
 msgstr "Режим &перетягування"
 
-#, c-format
 msgid "&Move"
 msgstr "&Перемістити"
 
-#, c-format
 msgid "&Adjust Offset"
 msgstr "&Корекція зміщення"
 
@@ -232,7 +225,6 @@ msgstr "&Горизонтальне стирання"
 msgid "Rectangle &Select"
 msgstr "Прямокутний &вибір"
 
-#, c-format
 msgid "&Set Background Color"
 msgstr "Оберіть &колір фону"
 
@@ -308,37 +300,30 @@ msgstr "&Історія переглядів"
 msgid "&All Profiles"
 msgstr "&Усі профілі"
 
-#, c-format
 msgid "&File"
 msgstr "&Файл"
 
-#, c-format
 msgid "&New"
 msgstr "&Створити"
 
-#, c-format
 msgid "&Text"
 msgstr "&Текст"
 
 msgid "T&able"
 msgstr "Т&аблиця"
 
-#, c-format
 msgid "&Binary"
 msgstr "&Двійковий"
 
-#, c-format
 msgid "&Image"
 msgstr "&Зображення"
 
 msgid "&Webpage"
 msgstr "&Вебсторінка"
 
-#, c-format
 msgid "New (&3 panes)"
 msgstr "Створити (&3 панелі)"
 
-#, c-format
 msgid "&Open...\tCtrl+O"
 msgstr "&Відкрити...\tCtrl+O"
 
@@ -348,42 +333,33 @@ msgstr "Відкрити файл з кон&фліктами..."
 msgid "Open C&lipboard"
 msgstr "Відкрити буфер &обміну"
 
-#, c-format
 msgid "Open Pro&ject...\tCtrl+J"
 msgstr "Відкрити &проєкт...\tCtrl+J"
 
-#, c-format
 msgid "Sa&ve Project..."
 msgstr "З&берегти проєкт..."
 
-#, c-format
 msgid "Recent Projects"
 msgstr "Нещодавні проєкти"
 
-#, c-format
 msgid "Recent F&iles or Folders"
 msgstr "Останні ф&айли та теки"
 
 msgid "E&xit\tCtrl+Q"
 msgstr "В&ихід\tCtrl+Q"
 
-#, c-format
 msgid "&Edit"
 msgstr "&Редагування"
 
-#, c-format
 msgid "&Paste\tCtrl+V"
 msgstr "&Вставити\tCtrl+V"
 
-#, c-format
 msgid "&Options...\tCtrl+,"
 msgstr "&Налаштування...\tCtrl+,"
 
-#, c-format
 msgid "&View"
 msgstr "Ви&гляд"
 
-#, c-format
 msgid "Ta&b Bar"
 msgstr "Панель &закладок"
 
@@ -393,22 +369,18 @@ msgstr "&Вигляд панелі закладок"
 msgid "&On Title Bar"
 msgstr "&На панелі з назвою"
 
-#, c-format
 msgid "&Toolbar"
 msgstr "Пан&ель інструментів"
 
-#, c-format
 msgid "&Small"
 msgstr "&Маленькі"
 
 msgid "&Medium"
 msgstr "&Середні"
 
-#, c-format
 msgid "&Big"
 msgstr "&Великі"
 
-#, c-format
 msgid "&Huge"
 msgstr "&Величезні"
 
@@ -418,169 +390,129 @@ msgstr "Панель мен&ю"
 msgid "&Output Pane"
 msgstr "Панель &виводу"
 
-#, c-format
 msgid "&Status Bar"
 msgstr "Ря&док стану"
 
-#, c-format
 msgid "&Tools"
 msgstr "&Інструменти"
 
-#, c-format
 msgid "&Filters..."
 msgstr "&Фільтри..."
 
-#, c-format
 msgid "&Generate Patch..."
 msgstr "&Створити латку..."
 
-#, c-format
 msgid "&Plugins"
 msgstr "&Плагіни"
 
-#, c-format
 msgid "P&lugin Settings..."
 msgstr "Налаштування &плагінів..."
 
-#, c-format
 msgid "Ma&nual Prediffer"
 msgstr "Ручний шаблон відмінностей"
 
-#, c-format
 msgid "A&utomatic Prediffer"
 msgstr "Автоматичний шаблон відмінностей"
 
-#, c-format
 msgid "&Manual Unpacking"
 msgstr "Розпакування &вручну"
 
-#, c-format
 msgid "&Automatic Unpacking"
 msgstr "Розпакування &автоматичне"
 
-#, c-format
 msgid "&Reload Plugins"
 msgstr "Перезавантажити &плагіни"
 
-#, c-format
 msgid "&Window"
 msgstr "&Вікно"
 
 msgid "Cl&ose\tCtrl+W"
 msgstr "&Закрити\tCtrl+W"
 
-#, c-format
 msgid "Clo&se All"
 msgstr "За&крити все"
 
-#, c-format
 msgid "Change &Pane\tF6"
 msgstr "Змінити &панель\tF6"
 
-#, c-format
 msgid "Tile &Horizontally"
 msgstr "Розмістити &горизонтально"
 
-#, c-format
 msgid "Tile &Vertically"
 msgstr "Розмістити &вертикально"
 
-#, c-format
 msgid "&Cascade"
 msgstr "&Каскад"
 
-#, c-format
 msgid "&Help"
 msgstr "&Довідка"
 
-#, c-format
 msgid "&WinMerge Help\tF1"
 msgstr "&Довідка WinMerge\tF1"
 
-#, c-format
 msgid "R&elease Notes"
 msgstr "&Примітки до випуску"
 
-#, c-format
 msgid "&Translations"
 msgstr "&Переклади"
 
-#, c-format
 msgid "C&onfiguration"
 msgstr "&Конфігурація"
 
-#, c-format
 msgid "&GNU General Public License"
 msgstr "&Загальна ліцензія GNU"
 
-#, c-format
 msgid "&About WinMerge..."
 msgstr "Про про&граму WinMerge..."
 
 msgid "&Read-Only"
 msgstr "Лише для &читання"
 
-#, c-format
 msgid "L&eft Read-Only"
 msgstr "З&ліва лише для читання"
 
-#, c-format
 msgid "M&iddle Read-Only"
 msgstr "В&середині лише для читання"
 
-#, c-format
 msgid "Ri&ght Read-Only"
 msgstr "&Праворуч лише для читання"
 
-#, c-format
 msgid "&File Encoding..."
 msgstr "&Кодування файлу..."
 
-#, c-format
 msgid "Select &All\tCtrl+A"
 msgstr "В&ибрати все\tCtrl+A"
 
-#, c-format
 msgid "Show &Identical Items"
 msgstr "Показати &однакові"
 
-#, c-format
 msgid "Show &Different Items"
 msgstr "Показати &відмінні"
 
-#, c-format
 msgid "Show L&eft Unique Items"
 msgstr "Показати &ліві унікальні"
 
-#, c-format
 msgid "Show Midd&le Unique Items"
 msgstr "Показати &середні унікальні"
 
-#, c-format
 msgid "Show Ri&ght Unique Items"
 msgstr "Показати &праві унікальні"
 
-#, c-format
 msgid "Show S&kipped Items"
 msgstr "Показати про&пущені"
 
-#, c-format
 msgid "S&how Binary Files"
 msgstr "Показати &двійкові файли"
 
-#, c-format
 msgid "&3-way Compare"
 msgstr "&3-панельне порівняння"
 
-#, c-format
 msgid "Show &Left Only Different Items"
 msgstr "Показати тільки &ліві відмінні"
 
-#, c-format
 msgid "Show &Middle Only Different Items"
 msgstr "Показати тільки &середні відмінні"
 
-#, c-format
 msgid "Show &Right Only Different Items"
 msgstr "Показати тільки &праві відмінні"
 
@@ -593,11 +525,9 @@ msgstr "Показати тільки &середні пропущені"
 msgid "Show Rig&ht Only Missing Items"
 msgstr "Показати тільки &праві пропущені"
 
-#, c-format
 msgid "Show Hidd&en Items"
 msgstr "Показати при&ховані"
 
-#, c-format
 msgid "Tree &Mode"
 msgstr "Режим &дерева"
 
@@ -613,19 +543,15 @@ msgstr "&Відмінні підтеки"
 msgid "&Identical Subfolders"
 msgstr "&Однакові підтеки"
 
-#, c-format
 msgid "&Collapse All Subfolders"
 msgstr "&Згорнути всі підтеки"
 
-#, c-format
 msgid "Select &Font..."
 msgstr "Вибрати &шрифт..."
 
-#, c-format
 msgid "Use Default Font"
 msgstr "Використовувати типовий шрифт"
 
-#, c-format
 msgid "Sw&ap Panes"
 msgstr "Пом&іняти панелі місцями"
 
@@ -638,103 +564,79 @@ msgstr "Поміняти місцями &2-гу|3-тю"
 msgid "Swap 1st | &3rd"
 msgstr "Поміняти місцями 1-шу|&3-тю"
 
-#, c-format
 msgid "Com&pare Statistics..."
 msgstr "Порівняти статистику..."
 
-#, c-format
 msgid "Refresh\tF5"
 msgstr "&Оновити\tF5"
 
-#, c-format
 msgid "&Refresh Selected\tCtrl+F5"
 msgstr "Оновити &вибрані\tCtrl+F5"
 
-#, c-format
 msgid "&Merge"
 msgstr "&Злиття"
 
-#, c-format
 msgid "Co&mpare\tEnter"
 msgstr "По&рівняти\tEnter"
 
-#, c-format
 msgid "&Next Difference\tAlt+Down"
 msgstr "&Наступна відмінність\tAlt+Down"
 
-#, c-format
 msgid "&Previous Difference\tAlt+Up"
 msgstr "П&опередня відмінність\tAlt+Up"
 
-#, c-format
 msgid "&First Difference\tAlt+Home"
 msgstr "Пер&ша відмінність\tAlt+Home"
 
-#, c-format
 msgid "&Current Difference\tAlt+Enter"
 msgstr "&Поточна відмінність\tAlt+Enter"
 
-#, c-format
 msgid "&Last Difference\tAlt+End"
 msgstr "Ост&ання відмінність\tAlt+End"
 
-#, c-format
 msgid "Copy to &Right\tAlt+Right"
 msgstr "Скопіювати на пра&ву панель\tAlt+Right"
 
-#, c-format
 msgid "Copy to L&eft\tAlt+Left"
 msgstr "Скопіювати на &ліву панель\tAlt+Left"
 
-#, c-format
 msgid "&Delete\tDel"
 msgstr "&Видалити\tDel"
 
-#, c-format
 msgid "&Customize Columns..."
 msgstr "&Налаштувати стовпчики..."
 
-#, c-format
 msgid "Generate &Report..."
 msgstr "Створити &звіт..."
 
-#, fuzzy, c-format
+#, fuzzy
 msgid "&Edit with Unpacker..."
 msgstr "&Редагувати з Розпакувальником..."
 
-#, c-format
 msgid "&Save\tCtrl+S"
 msgstr "&Зберегти\tCtrl+S"
 
-#, c-format
 msgid "Sav&e"
 msgstr "З&берегти"
 
-#, c-format
 msgid "Save &Left"
 msgstr "Зберегти &лівий файл"
 
-#, c-format
 msgid "Save &Middle"
 msgstr "Зберегти &середній файл"
 
-#, c-format
 msgid "Save &Right"
 msgstr "Зберегти &правий файл"
 
-#, c-format
 msgid "Save &As"
 msgstr "Зберегти &як"
 
-#, c-format
 msgid "Save &Left As..."
 msgstr "Зберегти &лівий файл як..."
 
-#, c-format
 msgid "Save &Middle As..."
 msgstr "Зберегти &середній файл як..."
 
-#, c-format
 msgid "Save &Right As..."
 msgstr "Зберегти &правий файл як..."
 
@@ -747,174 +649,135 @@ msgstr "Пара&метри сторінки..."
 msgid "Print Previe&w..."
 msgstr "&Перегляд до друку..."
 
-#, c-format
 msgid "&Convert Line Endings to"
 msgstr "Конвертувати закінчення &рядків у"
 
-#, c-format
 msgid "Mer&ge Mode\tF9"
 msgstr "Режим &злиття\tF9"
 
 msgid "Reloa&d\tCtrl+F5"
 msgstr "&Перевідкрити\tCtrl+F5"
 
-#, c-format
 msgid "Reco&mpare As"
 msgstr "Порівняти &знову як"
 
-#, c-format
 msgid "&Undo\tCtrl+Z"
 msgstr "&Скасувати\tCtrl+Z"
 
-#, c-format
 msgid "&Redo\tCtrl+Y"
 msgstr "Пов&ернути\tCtrl+Y"
 
-#, c-format
 msgid "Cu&t\tCtrl+X"
 msgstr "Ви&різати\tCtrl+X"
 
-#, c-format
 msgid "&Copy\tCtrl+C"
 msgstr "&Копіювати\tCtrl+C"
 
-#, c-format
 msgid "F&ind...\tCtrl+F"
 msgstr "Зна&йти...\tCtrl+F"
 
-#, c-format
 msgid "Repla&ce...\tCtrl+H"
 msgstr "&Замінити...\tCtrl+H"
 
-#, c-format
 msgid "&Marker...\tCtrl+Shift+M"
 msgstr "&Маркер...\tCtrl+Shift+M"
 
-#, c-format
 msgid "Advanced"
 msgstr "&Додатково"
 
-#, c-format
 msgid "&Copy With Line Numbers\tCtrl+Shift+C"
 msgstr "&Копіювати з нумерацією рядків\tCtrl+Shift+C"
 
-#, c-format
 msgid "&Bookmarks"
 msgstr "З&акладки"
 
-#, c-format
 msgid "&Toggle Bookmark\tCtrl+F2"
 msgstr "&Закладка\tCtrl+F2"
 
-#, c-format
 msgid "&Next Bookmark\tF2"
 msgstr "&Наступна закладка\tF2"
 
-#, c-format
 msgid "&Previous Bookmark\tShift+F2"
 msgstr "&Попередня закладка\tShift+F2"
 
-#, c-format
 msgid "&Clear All Bookmarks"
 msgstr "&Очистити всі закладки"
 
-#, c-format
 msgid "Syntax Highlight"
 msgstr "Підсвічування синтаксису"
 
-#, c-format
 msgid "&Diff Context"
 msgstr "&Контекст відмінностей"
 
-#, c-format
 msgid "&All Lines"
 msgstr "&Усі рядки"
 
-#, c-format
 msgid "&0 Lines"
 msgstr "&0 рядків"
 
-#, c-format
 msgid "&1 Line"
 msgstr "&1 рядок"
 
-#, c-format
 msgid "&3 Lines"
 msgstr "&3 рядки"
 
-#, c-format
 msgid "&5 Lines"
 msgstr "&5 рядків"
 
-#, c-format
 msgid "&7 Lines"
 msgstr "&7 рядків"
 
-#, c-format
 msgid "&9 Lines"
 msgstr "&9 рядків"
 
-#, c-format
 msgid "&Toggle All and 0-9 Lines\tCtrl+D"
 msgstr ""
 
 msgid "&Invert (Hide Different Lines)"
 msgstr ""
 
-#, c-format
 msgid "&Lock Panes"
 msgstr "За&блокувати панелі"
 
-#, c-format
 msgid "&View Whitespace"
 msgstr "Показу&вати пропуски"
 
 msgid "View E&OL"
 msgstr ""
 
-#, c-format
 msgid "Vie&w Line Differences"
 msgstr "Показувати відмінності в рядках"
 
-#, c-format
 msgid "View Line &Numbers"
 msgstr "Показувати &номера рядків"
 
-#, c-format
 msgid "View &Margins"
 msgstr "Показувати п&оля"
 
 msgid "View To&p Margins"
 msgstr ""
 
-#, c-format
 msgid "W&rap Lines"
 msgstr "Переносити за &словами"
 
-#, c-format
 msgid "Split V&ertically"
 msgstr ""
 
-#, c-format
 msgid "Diff &Pane"
 msgstr "Пане&ль порівняння"
 
-#, c-format
 msgid "Lo&cation Pane"
 msgstr "Панель місць &розташування"
 
 msgid "Output Pane"
 msgstr ""
 
-#, c-format
 msgid "Ne&xt Conflict\tAlt+Shift+Down"
 msgstr ""
 
-#, c-format
 msgid "Pre&vious Conflict\tAlt+Shift+Up"
 msgstr ""
 
-#, c-format
 msgid "A&dvanced"
 msgstr ""
 
@@ -957,18 +820,15 @@ msgstr ""
 msgid "Copy from &Left to"
 msgstr ""
 
-#, c-format
 msgid "&Middle"
 msgstr ""
 
-#, c-format
 msgid "&Right"
 msgstr "&Праворуч"
 
 msgid "Copy from &Middle to"
 msgstr ""
 
-#, c-format
 msgid "&Left"
 msgstr "&Ліворуч"
 
@@ -984,11 +844,9 @@ msgstr ""
 msgid "Copy Selected Lines from Ri&ght to"
 msgstr ""
 
-#, c-format
 msgid "Copy from Left\tAlt+Shift+Right"
 msgstr ""
 
-#, c-format
 msgid "Copy from Right\tAlt+Shift+Left"
 msgstr ""
 
@@ -998,29 +856,24 @@ msgstr "Скопіювати на праву панель і перейти до
 msgid "Copy &to Left and Advance\tCtrl+Alt+Left"
 msgstr "Скопіювати на ліву панель і перейти до наступної\tCtrl+Alt+Left"
 
-#, c-format
 msgid "Copy &All to Right"
 msgstr "Скопіювати все на праву панел&ь"
 
-#, c-format
 msgid "Cop&y All to Left"
 msgstr "Скопі&ювати все на ліву панель"
 
 msgid "A&uto Merge\tCtrl+Alt+M"
 msgstr ""
 
-#, c-format
 msgid "Add &Synchronization Point\tAlt+S"
 msgstr ""
 
-#, c-format
 msgid "Clear Sync&hronization Points"
 msgstr ""
 
 msgid "Unpac&ker"
 msgstr ""
 
-#, c-format
 msgid "&Prediffer"
 msgstr "&Попереднє порівняння"
 
@@ -1036,11 +889,9 @@ msgstr ""
 msgid "Select &Editor Script..."
 msgstr ""
 
-#, c-format
 msgid "Sp&lit"
 msgstr ""
 
-#, c-format
 msgid "Comp&are"
 msgstr "По&рівняти"
 
@@ -1050,7 +901,6 @@ msgstr ""
 msgid "Compare Non-hor&izontally..."
 msgstr ""
 
-#, c-format
 msgid "Compare Non-hor&izontally"
 msgstr ""
 
@@ -1066,7 +916,6 @@ msgstr ""
 msgid "&Second Left with First Right"
 msgstr ""
 
-#, c-format
 msgid "Co&mpare As"
 msgstr ""
 
@@ -1106,39 +955,30 @@ msgstr "Справа ліворуч (%1 з %2)"
 msgid "Right to... (%1 of %2)"
 msgstr "Справа... (%1 з %2)"
 
-#, c-format
 msgid "&Delete"
 msgstr "&Вилучити"
 
-#, c-format
 msgid "&Both"
 msgstr "&Обидва"
 
-#, c-format
 msgid "&All"
 msgstr ""
 
-#, c-format
 msgid "Re&name"
 msgstr "&Перейменувати"
 
-#, c-format
 msgid "&Hide Items"
 msgstr "&Сховати"
 
-#, c-format
 msgid "&Open Left"
 msgstr "&Відкрити лівий файл"
 
-#, c-format
 msgid "Open Midd&le"
 msgstr ""
 
-#, c-format
 msgid "O&pen Right"
 msgstr "В&ідкрити правий файл"
 
-#, c-format
 msgid "Cop&y Paths"
 msgstr "Скопіювати &шляхи"
 
@@ -1162,7 +1002,6 @@ msgstr "Разом (%1 з %2)"
 msgid "All (%1 of %2)"
 msgstr ""
 
-#, c-format
 msgid "Copy &Filenames"
 msgstr "Скопіювати &імена файлів"
 
@@ -1172,7 +1011,6 @@ msgstr ""
 msgid "Copy All Di&splayed Columns"
 msgstr ""
 
-#, c-format
 msgid "&Zip"
 msgstr "&Заархівувати"
 
@@ -1194,7 +1032,6 @@ msgstr ""
 msgid "Middle Shell Menu"
 msgstr ""
 
-#, c-format
 msgid "Right Shell Menu"
 msgstr "Праве меню оболонки"
 
@@ -1204,15 +1041,12 @@ msgstr ""
 msgid "All Shell Menu"
 msgstr ""
 
-#, c-format
 msgid "Copy"
 msgstr ""
 
-#, c-format
 msgid "&Copy Full Path"
 msgstr "&Скопіювати повний шлях"
 
-#, c-format
 msgid "Copy &Filename"
 msgstr "Скопіювати &ім'я файлу"
 
@@ -1225,19 +1059,15 @@ msgstr ""
 msgid "Unpacker Settings"
 msgstr ""
 
-#, c-format
 msgid "<None>"
 msgstr "<Нема>"
 
-#, c-format
 msgid "<Automatic>"
 msgstr "<Автоматично>"
 
-#, c-format
 msgid "&Select..."
 msgstr "Вибрати..."
 
-#, c-format
 msgid "Prediffer Settings"
 msgstr "Параметри попереднього порівняння"
 
@@ -1247,43 +1077,33 @@ msgstr "Перейти до &відмінності"
 msgid "Move Cursor on &Click"
 msgstr ""
 
-#, c-format
 msgid "&No Moved Blocks"
 msgstr "&Без переміщених блоків"
 
-#, c-format
 msgid "&All Moved Blocks"
 msgstr "&Всі переміщені блоки"
 
-#, c-format
 msgid "W&hitespaces"
 msgstr "Пропуски"
 
-#, c-format
 msgid "Com&pare"
 msgstr "Порівняти"
 
-#, c-format
 msgid "I&gnore Changes"
 msgstr "Нехтувати змінами"
 
-#, c-format
 msgid "Ig&nore All"
 msgstr "Нехтувати всюди"
 
-#, c-format
 msgid "Ignore Blan&k Lines"
 msgstr "Нехтувати порожніми &лініями"
 
-#, c-format
 msgid "Ignore &Case"
 msgstr "Нехтувати р&егістр"
 
-#, c-format
 msgid "Igno&re EOL Differences (Windows/Unix/Mac)"
 msgstr "Нехтувати різницею в кінцях рядків (Win/Unix/Mac)"
 
-#, c-format
 msgid "Ignore Codepage &Differences"
 msgstr ""
 
@@ -1296,39 +1116,30 @@ msgstr ""
 msgid "Ignore &Missing Trailing EOL"
 msgstr ""
 
-#, c-format
 msgid "&Include Subfolders"
 msgstr "&Враховуючи підтеки"
 
-#, c-format
 msgid "&Compare Method"
 msgstr ""
 
-#, c-format
 msgid "Full Contents"
 msgstr "Повний пошук за вмістом"
 
-#, c-format
 msgid "Quick Contents"
 msgstr "Швидкий пошук за вмістом"
 
-#, c-format
 msgid "Binary Contents"
 msgstr ""
 
-#, c-format
 msgid "Modified Date"
 msgstr "За розходженнями в даті"
 
-#, c-format
 msgid "Modified Date and Size"
 msgstr "За датою зміни і розміру"
 
-#, c-format
 msgid "Size"
 msgstr "За розміром"
 
-#, c-format
 msgid "&Load Project..."
 msgstr ""
 
@@ -1749,74 +1560,57 @@ msgstr ""
 msgid "Target: Middle and &Right"
 msgstr ""
 
-#, c-format
 msgid "About WinMerge"
 msgstr "Про програму WinMerge"
 
 msgid "Visit the WinMerge Homepage!"
 msgstr "Відвідайте домашню сторінку WinMerge !"
 
-#, c-format
 msgid "OK"
 msgstr "Гаразд"
 
-#, c-format
 msgid "Contributors"
 msgstr "Автори"
 
-#, c-format
 msgid "Select Files or Folders"
 msgstr "Виберіть файли або теки"
 
-#, c-format
 msgid "&1st File or Folder"
 msgstr ""
 
-#, c-format
 msgid "Re&ad-only"
 msgstr "Лише читання"
 
-#, c-format
 msgid "Swap 1st | 2nd"
 msgstr ""
 
-#, c-format
 msgid "&Browse..."
 msgstr "&Перегляд..."
 
-#, c-format
 msgid "&2nd File or Folder"
 msgstr ""
 
-#, c-format
 msgid "Rea&d-only"
 msgstr ""
 
-#, c-format
 msgid "Swap 2nd | 3rd"
 msgstr ""
 
-#, c-format
 msgid "B&rowse..."
 msgstr "П&ерегляд..."
 
-#, c-format
 msgid "&3rd File or Folder (Optional)"
 msgstr ""
 
-#, c-format
 msgid "Read-o&nly"
 msgstr ""
 
-#, c-format
 msgid "Swap 1st | 3rd"
 msgstr ""
 
-#, c-format
 msgid "Browse..."
 msgstr "Перегляд ..."
 
-#, c-format
 msgid " Folder: Filter"
 msgstr ""
 
@@ -1826,34 +1620,27 @@ msgstr "&Враховуючи підтеки"
 msgid " File: Prediffer Plugin"
 msgstr ""
 
-#, c-format
 msgid " File: Unpacker Plugin"
 msgstr ""
 
-#, c-format
 msgid "Se&lect..."
 msgstr ""
 
-#, c-format
 msgid "Cancel"
 msgstr "Скасувати"
 
-#, c-format
 msgid "Status:"
 msgstr "Статус:"
 
-#, c-format
 msgid "Help"
 msgstr "Довідка"
 
 msgid "&Options..."
 msgstr "&Налаштування..."
 
-#, c-format
 msgid "General"
 msgstr "Основні"
 
-#, c-format
 msgid "Automatically &scroll to first difference"
 msgstr "Автоматично &перемістити до першої відмінності"
 
@@ -1863,161 +1650,129 @@ msgstr ""
 msgid "Cl&ose windows with 'Esc':"
 msgstr "За&кривати вікна клавішею 'Esc':"
 
-#, c-format
 msgid "&Automatically verify paths in Open dialog"
 msgstr "Автоматично перевіряти шляхи в діалозі відкриття файлів"
 
 msgid "Single instance mode:"
 msgstr ""
 
-#, c-format
 msgid "As&k when closing multiple windows"
 msgstr "Запитати перед закриттям декількох вікон"
 
-#, c-format
 msgid "&Preserve file time in file compare"
 msgstr "Зберігати час файлу при порівнянні"
 
-#, c-format
 msgid "Show \"Select Files or Folders\" dialog on startup"
 msgstr "Показувати при запуску діалог вибору файлів та тек"
 
 msgid "Close \"Select Files or Folders\" dialog on clicking Compare button"
 msgstr ""
 
-#, c-format
 msgid "Op&en dialog Auto completion:"
 msgstr "Діалог Автоматичного доповнення:"
 
 msgid "Auto-&reload modified files:"
 msgstr ""
 
-#, c-format
 msgid "Language:"
 msgstr ""
 
-#, c-format
 msgid "Defaults"
 msgstr "Звичайні параметри"
 
-#, c-format
 msgid "Find"
 msgstr "Знайти"
 
-#, c-format
 msgid "Fi&nd what:"
 msgstr "&Пошук:"
 
-#, c-format
 msgid "Match &whole word only"
 msgstr "Виконати пошук слова &цілком"
 
-#, c-format
 msgid "Match &case"
 msgstr "Враховувати &регістр"
 
-#, c-format
 msgid "Regular &expression"
 msgstr "Ре&гулярні вирази"
 
-#, c-format
 msgid "D&on't wrap end of file"
 msgstr "Н&е зупинятися в кінці файлу"
 
-#, c-format
 msgid "&Don't close this dialog"
 msgstr ""
 
-#, c-format
 msgid "&Find Next"
 msgstr "&Далі"
 
-#, c-format
 msgid "Find &Prev"
 msgstr ""
 
-#, c-format
 msgid "Replace"
 msgstr "Заміна"
 
-#, c-format
 msgid "Re&place with:"
 msgstr "За&мінити на:"
 
-#, c-format
 msgid "&Don't wrap at end of file"
 msgstr "Не зупинятися при досягненні кінця файлу"
 
-#, c-format
 msgid "Replace in"
 msgstr "Замінити"
 
-#, c-format
 msgid "&Selection"
 msgstr "В ві&дзначеному"
 
-#, c-format
 msgid "Wh&ole file"
 msgstr "В всьому &файлі"
 
 msgid "Find Pre&v"
 msgstr ""
 
-#, c-format
 msgid "&Replace"
 msgstr "&Замінити"
 
-#, c-format
 msgid "Replace &All"
 msgstr "З&амінити всюди"
 
-#, c-format
 msgid "Markers"
 msgstr ""
 
-#, c-format
 msgid "Enable &markers"
 msgstr ""
 
-#, c-format
 msgid "New"
 msgstr "Створити"
 
-#, c-format
 msgid "&Background color:"
 msgstr ""
 
-#, c-format
 msgid "&Ok"
 msgstr "&OК"
 
-#, c-format
 msgid "&Apply"
 msgstr "&Застосувати"
 
 msgid "Line Filters"
 msgstr ""
 
-#, c-format
 msgid "Enable Line Filters"
 msgstr "Дозволити фільтри рядків"
 
-#, c-format
 msgid "Regular Expressions (one per line):"
 msgstr "Регулярні вирази (один на рядок):"
 
-#, c-format
 msgid "Edit"
 msgstr "Редакція"
 
-#, c-format
 msgid "Remove"
 msgstr "Вилучити"
 
 msgid "Substitution Filters"
 msgstr ""
 
-msgid "Changes to the listed pairs below will be ignored or marked as insignificant. Patches are unaffected."
+msgid ""
+"Changes to the listed pairs below will be ignored or marked as "
+"insignificant. Patches are unaffected."
 msgstr ""
 
 msgid "Enable"
@@ -2029,7 +1784,6 @@ msgstr ""
 msgid "Clear"
 msgstr ""
 
-#, c-format
 msgid "Colors"
 msgstr "Кольори"
 
@@ -2051,131 +1805,99 @@ msgstr ""
 msgid "Delete &current scheme..."
 msgstr ""
 
-#, c-format
 msgid "Background"
 msgstr "Тло"
 
-#, c-format
 msgid "Deleted"
 msgstr "Вилучені"
 
-#, c-format
 msgid "Text"
 msgstr "Текст"
 
-#, c-format
 msgid "Difference:"
 msgstr "Відмінність:"
 
-#, c-format
 msgid "Selected Difference:"
 msgstr "Відзначена відмінність:"
 
-#, c-format
 msgid "Ignored Difference:"
 msgstr "Ігноровані відмінності:"
 
-#, c-format
 msgid "Moved:"
 msgstr "Переміщені:"
 
-#, c-format
 msgid "Selected Moved:"
 msgstr "Відзначені переміщені:"
 
-#, c-format
 msgid "Same As Next (3 panes):"
 msgstr ""
 
-#, c-format
 msgid "Same As Next (Selected):"
 msgstr ""
 
-#, c-format
 msgid "Word Difference:"
 msgstr "Словникова відмінність:"
 
-#, c-format
 msgid "Selected Word Diff:"
 msgstr "Відзначена словникова відмінність:"
 
-#, c-format
 msgid "Dialog"
 msgstr "Діалог"
 
-#, c-format
 msgid "Keywords:"
 msgstr "Ключові слова:"
 
-#, c-format
 msgid "Function names:"
 msgstr "Імена функцій:"
 
-#, c-format
 msgid "Comments:"
 msgstr "Коментарі:"
 
-#, c-format
 msgid "Numbers:"
 msgstr "Числа:"
 
-#, c-format
 msgid "Operators:"
 msgstr "Оператори:"
 
-#, c-format
 msgid "Strings:"
 msgstr "Рядки:"
 
-#, c-format
 msgid "Preprocessor:"
 msgstr "Поперед. обрах.:"
 
-#, c-format
 msgid "User 1:"
 msgstr "Користувач 1:"
 
-#, c-format
 msgid "User 2:"
 msgstr "Користувач 2:"
 
-#, c-format
 msgid "Bold"
 msgstr "Грубий"
 
-#, c-format
 msgid "&Use customized text colors"
 msgstr "Використати особливі кольори"
 
-#, c-format
 msgid "Whitespace:"
 msgstr "Пропуски:"
 
-#, c-format
 msgid "Regular text:"
 msgstr "Звичайний текст:"
 
-#, c-format
 msgid "Selection:"
 msgstr "Відзнач. текст:"
 
-#, c-format
 msgid "Margin:"
 msgstr ""
 
-#, c-format
 msgid "Search Marker:"
 msgstr ""
 
-#, c-format
 msgid "User Defined Marker 1:"
 msgstr ""
 
-#, c-format
 msgid "User Defined Marker 2:"
 msgstr ""
 
-#, c-format
 msgid "User Defined Marker 3:"
 msgstr ""
 
@@ -2197,99 +1919,75 @@ msgstr ""
 msgid "&Use custom system colors"
 msgstr ""
 
-#, c-format
 msgid "System"
 msgstr "Система"
 
-#, c-format
 msgid "&Use Recycle Bin"
 msgstr "Переміщувати вилучені файли до кошика"
 
-#, c-format
 msgid "&External editor:"
 msgstr "Зовнішній редактор:"
 
-#, c-format
 msgid "&Filter folder:"
 msgstr "&Фільтри:"
 
-#, c-format
 msgid "Temporary files folder"
 msgstr "Тека для тимчасових файлів"
 
-#, c-format
 msgid "S&ystem temp folder"
 msgstr "Системна тека Temp"
 
-#, c-format
 msgid "C&ustom folder:"
 msgstr "Власна тека:"
 
-#, c-format
 msgid "Br&owse..."
 msgstr "Переглядання ..."
 
-#, c-format
 msgid "Patch Generator"
 msgstr "Генератор латок"
 
-#, c-format
 msgid "File&1:"
 msgstr "Файл 1:"
 
-#, c-format
 msgid "File&2:"
 msgstr "Файл 2:"
 
-#, c-format
 msgid "&Swap"
 msgstr "Поміняти"
 
-#, c-format
 msgid "&Copy to clipboard"
 msgstr "Копіювати в буфер обміну"
 
-#, c-format
 msgid "&Append to existing file"
 msgstr "Додати в існуючий файл"
 
-#, c-format
 msgid "&Result:"
 msgstr "Результат:"
 
-#, c-format
 msgid "Bro&wse..."
 msgstr "Пере&гляд..."
 
-#, c-format
 msgid "&Format"
 msgstr "Формат"
 
-#, c-format
 msgid "St&yle:"
 msgstr "Стиль:"
 
-#, c-format
 msgid "&Context:"
 msgstr "Контекст:"
 
-#, c-format
 msgid "Inclu&de command line"
 msgstr "Ввім&кнути командний рядок"
 
-#, c-format
 msgid "Open in e&xternal editor"
 msgstr "Відкрити у зовнішньому редакторі"
 
-#, c-format
 msgid "Display Columns"
 msgstr "Відображати стовпчики"
 
-#, c-format
 msgid "Move &Up"
 msgstr "&Вгору"
 
-#, c-format
 msgid "Move &Down"
 msgstr "В&низ"
 
@@ -2308,11 +2006,9 @@ msgstr ""
 msgid "&Target files:"
 msgstr ""
 
-#, c-format
 msgid "Extensions list:"
 msgstr "Список розширень:"
 
-#, c-format
 msgid "Description:"
 msgstr "Опис:"
 
@@ -2331,26 +2027,21 @@ msgstr ""
 msgid "&Alias..."
 msgstr ""
 
-#, c-format
 msgid "Stop"
 msgstr "Зупинити"
 
-#, c-format
 msgid "Pause"
 msgstr ""
 
-#, c-format
 msgid "Continue"
 msgstr ""
 
 msgid "C&PU cores to use:"
 msgstr ""
 
-#, c-format
 msgid "Items total:"
 msgstr "Всього:"
 
-#, c-format
 msgid "Items compared:"
 msgstr "Опрацьованих:"
 
@@ -2360,41 +2051,33 @@ msgstr "Перейти"
 msgid "G&o to:"
 msgstr "&До:"
 
-#, c-format
 msgid "File"
 msgstr "Файл"
 
 msgid "Go to what"
 msgstr "До чого"
 
-#, c-format
 msgid "Li&ne"
 msgstr "&Рядок"
 
-#, c-format
 msgid "&Difference"
 msgstr "&Відмінність"
 
 msgid "&Go to"
 msgstr "Перейт&и"
 
-#, c-format
 msgid "Compare"
 msgstr "Порівняння"
 
-#, c-format
 msgid "Whitespaces"
 msgstr "Пропуски"
 
-#, c-format
 msgid "&Compare"
 msgstr "Враховувати &пропуски"
 
-#, c-format
 msgid "&Ignore change"
 msgstr "Нехтувати зміненими пропусками"
 
-#, c-format
 msgid "I&gnore all"
 msgstr "Нехтувати &всіма пропусками"
 
@@ -2419,7 +2102,6 @@ msgstr ""
 msgid "Ignore &missing trailing EOL"
 msgstr ""
 
-#, c-format
 msgid "E&nable moved block detection"
 msgstr "Виявлення перемі&щених блоків"
 
@@ -2435,67 +2117,58 @@ msgstr ""
 msgid "Completely unhighlight the ignored differences"
 msgstr ""
 
-#, c-format
 msgid "Editor"
 msgstr "Редактор"
 
-#, c-format
 msgid "&Highlight syntax"
 msgstr "Підсвічувати синтаксис"
 
-#, c-format
 msgid "&Preserve original EOL"
 msgstr "Оригінальні символи закінчення рядка"
 
-#, c-format
 msgid "Tabs"
 msgstr "Відступи"
 
-#, c-format
 msgid "&Tab size:"
 msgstr "Розмір &відступу:"
 
 msgid "&Insert tabs"
 msgstr ""
 
-#, c-format
 msgid "Insert &spaces"
 msgstr "&Пропуски"
 
 msgid "&Rendering mode:"
 msgstr ""
 
-#, c-format
 msgid "&Automatic rescan"
 msgstr "Автоматичне &пересканування"
 
 msgid "Copy &granularity for selected differences:"
 msgstr ""
 
-#, c-format
 msgid "Line Difference Coloring"
 msgstr "Підсвічування відмінностей у рядку"
 
-#, c-format
 msgid "View line differences"
 msgstr "Показувати відмінності в рядку"
 
-#, c-format
 msgid "&Character-level"
 msgstr "За символами"
 
-#, c-format
 msgid "&Word-level:"
 msgstr "За словами:"
 
-#, c-format
 msgid "W&ord break characters:"
 msgstr "Символи для &розділення слів:"
 
-msgid "Some messages can be hidden by the user. Press Reset to make all messages visible again."
-msgstr "WinMerge не показує деякі повідомлення. Натисніть Скинути, щоб демонструвалися всі повідомлення."
+msgid ""
+"Some messages can be hidden by the user. Press Reset to make all messages "
+"visible again."
+msgstr ""
+"WinMerge не показує деякі повідомлення. Натисніть Скинути, щоб "
+"демонструвалися всі повідомлення."
 
-#, c-format
 msgid "Reset"
 msgstr "Скинути"
 
@@ -2511,19 +2184,15 @@ msgstr ""
 msgid "Test..."
 msgstr "Випробувати..."
 
-#, c-format
 msgid "Install..."
 msgstr "Встановити..."
 
-#, c-format
 msgid "New..."
 msgstr "Створити..."
 
-#, c-format
 msgid "Edit..."
 msgstr "Змінити..."
 
-#, c-format
 msgid "Delete..."
 msgstr "Вилучити..."
 
@@ -2542,71 +2211,54 @@ msgstr ""
 msgid "Expression:"
 msgstr ""
 
-#, c-format
 msgid "Save Modified Files?"
 msgstr "Зберегти змінені файли?"
 
-#, c-format
 msgid "Left side file"
 msgstr "Файл з лівої сторони"
 
-#, c-format
 msgid "&Save changes"
 msgstr "&Зберегти зміни"
 
-#, c-format
 msgid "&Discard changes"
 msgstr "&Скасувати зміни"
 
-#, c-format
 msgid "Middle side file"
 msgstr ""
 
-#, c-format
 msgid "Sa&ve changes"
 msgstr ""
 
-#, c-format
 msgid "Discard c&hanges"
 msgstr ""
 
-#, c-format
 msgid "Right side file"
 msgstr "Файл з правої сторони"
 
-#, c-format
 msgid "S&ave changes"
 msgstr "З&берегти зміни"
 
-#, c-format
 msgid "Dis&card changes"
 msgstr "Ві&дхилити зміни"
 
-#, c-format
 msgid "Disca&rd All"
 msgstr "Скасу&вати все"
 
-#, c-format
 msgid "Codepage"
 msgstr "Сторінка кодування"
 
-#, c-format
 msgid "Default Codepage"
 msgstr "Звичайна сторінка кодування"
 
-#, c-format
 msgid "Select the default codepage for non-Unicode files:"
 msgstr "Виберіть звичайну сторінку кодування для не Юнікодних файлів:"
 
-#, c-format
 msgid "System codepage"
 msgstr "Системна сторінка кодування"
 
-#, c-format
 msgid "According to WinMerge User Interface"
 msgstr "Залежно від інтерфейсу користувача WinMerge"
 
-#, c-format
 msgid "Custom codepage:"
 msgstr "Кодова сторінка користувача:"
 
@@ -2622,177 +2274,136 @@ msgid ""
 "Restart required."
 msgstr ""
 
-#, c-format
 msgid "Options"
 msgstr "Налаштування"
 
-#, c-format
 msgid "Import..."
 msgstr "Імпорт..."
 
-#, c-format
 msgid "Export..."
 msgstr "Експорт..."
 
-#, c-format
 msgid "Folder Compare Report"
 msgstr "Звіт порівняння тек"
 
-#, c-format
 msgid "Report &file:"
 msgstr "&Файл звіту:"
 
-#, c-format
 msgid "&Style:"
 msgstr "&Стиль:"
 
-#, c-format
 msgid "&Include file compare report"
 msgstr ""
 
-#, c-format
 msgid "Shared or Private Filter"
 msgstr "Загальні і особисті фільтри"
 
-#, c-format
 msgid "What type of filter do you want?"
 msgstr "Який тип фільтру ви хочете створити?"
 
-#, c-format
 msgid "Shared Filter (for all users)"
 msgstr "Загальний фільтр (для всіх користувачів цього ПК)"
 
-#, c-format
 msgid "Private Filter (current user only)"
 msgstr "Особистий фільтр (лише для поточного користувача)"
 
-#, c-format
 msgid "Archive Support"
 msgstr "Підтримка архівів"
 
-#, c-format
 msgid "&Enable archive file support"
 msgstr "&Ввімкнути підтримку архівів"
 
-#, c-format
 msgid "&Detect archive type from file signature"
 msgstr "&Визначати тип архіву за сигнатурою або заголовком файлу"
 
 msgid "Items saved to or restored from the project file:"
 msgstr ""
 
-#, c-format
 msgid "Compare Statistics"
 msgstr "Порівняння статистики"
 
-#, c-format
 msgid "Folders:"
 msgstr "Теки:"
 
-#, c-format
 msgid "Files:"
 msgstr "Файли:"
 
-#, c-format
 msgid "Different"
 msgstr "Відрізняються"
 
-#, c-format
 msgid "Binary:"
 msgstr "Бінарні:"
 
-#, c-format
 msgid "Unique"
 msgstr "Унікальні"
 
-#, c-format
 msgid "Left:"
 msgstr "Ліворуч:"
 
-#, c-format
 msgid "Right:"
 msgstr "Праворуч:"
 
-#, c-format
 msgid "Identical"
 msgstr "Однакові"
 
-#, c-format
 msgid "Total:"
 msgstr "Всього:"
 
-#, c-format
 msgid "Close"
 msgstr "Закрити"
 
-#, c-format
 msgid "Middle:"
 msgstr ""
 
-#, c-format
 msgid "Missing Left:"
 msgstr ""
 
-#, c-format
 msgid "Missing Middle:"
 msgstr ""
 
-#, c-format
 msgid "Missing Right:"
 msgstr ""
 
-#, fuzzy, c-format
+#, fuzzy
 msgid "Affects"
 msgstr "Має вплив"
 
-#, c-format
 msgid "(Affects)"
 msgstr "(застосувати)"
 
-#, c-format
 msgid "Select Codepage for"
 msgstr "Вибрати сторінку кодування для"
 
-#, c-format
 msgid "&File Loading:"
 msgstr "Завант. файлу:"
 
-#, c-format
 msgid "File &Saving:"
 msgstr "Збереження файлу:"
 
-#, c-format
 msgid "&Use same codepage for both"
 msgstr "Використати ту саму сторінку кодування"
 
-#, c-format
 msgid "&Cancel"
 msgstr "&Скасувати"
 
-#, c-format
 msgid "Test Filter"
 msgstr "Випробування фільтра"
 
 msgid "Testing filter:"
 msgstr "Випробувати фільтр:"
 
-#, c-format
 msgid "&Enter text to test:"
 msgstr "Вкажіть текст для випробування:"
 
-#, c-format
 msgid "&Folder Name"
 msgstr "Тека"
 
-#, c-format
 msgid "Result:"
 msgstr "Результат:"
 
-#, c-format
 msgid "&Test"
 msgstr "&Випробувати"
 
-#, c-format
 msgid "&Close"
 msgstr "&Закрити"
 
@@ -2820,78 +2431,60 @@ msgstr ""
 msgid "&Quote character:"
 msgstr ""
 
-#, c-format
 msgid "Backup Files"
 msgstr "Резервні копії"
 
-#, c-format
 msgid "Create backup files for:"
 msgstr "Створити резервні файли для:"
 
-#, c-format
 msgid "&Folder compare"
 msgstr "Порівняння &тек"
 
-#, c-format
 msgid "Fil&e compare"
 msgstr "Порівняння &файлів"
 
-#, c-format
 msgid "Create backup files in:"
 msgstr "Створити резервні файли:"
 
-#, c-format
 msgid "&Original file's folder"
 msgstr "в теці з &оригінальним файлом"
 
-#, c-format
 msgid "&Global backup folder:"
 msgstr "в &загальній теці:"
 
-#, c-format
 msgid "Backup filename:"
 msgstr "Ім'я резервного файлу:"
 
 msgid "&Append .bak extension"
 msgstr "&Додати розширення .bak"
 
-#, c-format
 msgid "A&ppend timestamp"
 msgstr "Додати дату"
 
-#, c-format
 msgid "Confirm Copy"
 msgstr "Підтвердження"
 
-#, c-format
 msgid "Are you sure you want to copy XXX items?"
 msgstr "Ви дійсно хочете скопіювати XXX елементи?"
 
-#, c-format
 msgid "From left"
 msgstr "Ліворуч"
 
-#, c-format
 msgid "To right"
 msgstr "Праворуч"
 
-#, c-format
 msgid "Don't ask this &question again."
 msgstr "Не задавати &це запитання знову."
 
-#, c-format
 msgid "Yes"
 msgstr "Так"
 
-#, c-format
 msgid "No"
 msgstr "Ні"
 
-#, c-format
 msgid "Plugins"
 msgstr "Доповнення"
 
-#, c-format
 msgid "&Enable plugins"
 msgstr "&Ввімкнути доповнення"
 
@@ -2907,30 +2500,24 @@ msgstr ""
 msgid "Enable &automatic unpacking/prediffing"
 msgstr ""
 
-#, c-format
 msgid "Shell Integration"
 msgstr "Вживлення в оболонку"
 
-#, c-format
 msgid "Explorer"
 msgstr "Провідник"
 
-#, c-format
 msgid "&Add to context menu"
 msgstr "&Додати до контекстного меню"
 
-#, c-format
 msgid "E&nable advanced menu"
 msgstr "В&вімкнути розширене меню"
 
 msgid "Enable &Compare As menu"
 msgstr ""
 
-#, c-format
 msgid "&Register Shell Extension"
 msgstr ""
 
-#, c-format
 msgid "&Unregister Shell Extension"
 msgstr ""
 
@@ -2959,22 +2546,18 @@ msgstr "Тека"
 msgid "&Compare method:"
 msgstr ""
 
-#, c-format
 msgid "S&top after first difference"
 msgstr "&Зупинятися після першої відмінності"
 
-#, c-format
 msgid "Ign&ore time differences less than 3 seconds"
 msgstr "Нехтувати різницею часу, меншою 3 секунд"
 
 msgid "Expand subfolders &after comparison:"
 msgstr ""
 
-#, c-format
 msgid "Include &unique subfolders contents"
 msgstr ""
 
-#, c-format
 msgid "Ignore &reparse points"
 msgstr ""
 
@@ -2994,30 +2577,24 @@ msgctxt "Options dialog|Categories"
 msgid "Binary"
 msgstr "Бінарний"
 
-#, c-format
 msgid "Binary file &patterns:"
 msgstr ""
 
-#, c-format
 msgid "Frhed settings"
 msgstr ""
 
-#, c-format
 msgid "View &Settings..."
 msgstr ""
 
-#, c-format
 msgid "&Binary Mode..."
 msgstr ""
 
-#, c-format
 msgid "&Character Set..."
 msgstr ""
 
 msgid "Image"
 msgstr ""
 
-#, c-format
 msgid "Image file &patterns:"
 msgstr ""
 
@@ -3042,7 +2619,6 @@ msgstr ""
 msgid "&Separate user data folders for each pane"
 msgstr ""
 
-#, c-format
 msgid "&Hex View"
 msgstr ""
 
@@ -3112,43 +2688,34 @@ msgstr ""
 msgid "<A>Show more fonts</A>"
 msgstr ""
 
-#, c-format
 msgid "EXT"
 msgstr "EXT"
 
-#, c-format
 msgid "CAP"
 msgstr "CAP"
 
-#, c-format
 msgid "NUM"
 msgstr "NUM"
 
-#, c-format
 msgid "SCRL"
 msgstr "SCRL"
 
-#, c-format
 msgid "OVR"
 msgstr "OVR"
 
-#, c-format
 msgid "REC"
 msgstr "REC"
 
-#, c-format
 msgid ""
 "\n"
 "New Documents (Ctrl+N)"
 msgstr ""
 
-#, c-format
 msgid ""
 "\n"
 "Open (Ctrl+O)"
 msgstr ""
 
-#, c-format
 msgid ""
 "\n"
 "Save (Ctrl+S)"
@@ -3160,27 +2727,22 @@ msgstr "Невідома помилка при відкритті файлу п�
 msgid "Unknown error saving project file."
 msgstr "Невідома помилка при збереженні файлу проєкту."
 
-#, c-format
 msgid "Project file loaded."
 msgstr "Файл проєкту успішно завантажений."
 
-#, c-format
 msgid "Project file saved."
 msgstr "Файл проєкту успішно збережений."
 
-#, c-format
 msgid ""
 "\n"
 "Undo (Ctrl+Z)"
 msgstr ""
 
-#, c-format
 msgid ""
 "\n"
 "Redo (Ctrl+Y)"
 msgstr ""
 
-#, c-format
 msgid ""
 "\n"
 "FileCompare\n"
@@ -3198,7 +2760,6 @@ msgstr ""
 "WinMerge.FileCompare\n"
 "WinMerge Порівняння файлів"
 
-#, c-format
 msgid ""
 "\n"
 "FolderCompare\n"
@@ -3216,65 +2777,59 @@ msgstr ""
 "WinMerge.FolderCompare\n"
 "WinMerge Порівняння тек"
 
-#, c-format
-msgid "WinMerge comes with ABSOLUTELY NO WARRANTY. It is free software and can be redistributed under the conditions of the GNU General Public License - see the Help menu for details."
-msgstr "WinMerge поставляється БЕЗ БУДЬ-ЯКОЇ ГАРАНТІЇ. Це вільне ПО і ми привітаємо його поширення згідно деяких умов; ознайомтеся з GNU General Public License в меню Довідка для докладнішої інформації."
+msgid ""
+"WinMerge comes with ABSOLUTELY NO WARRANTY. It is free software and can be "
+"redistributed under the conditions of the GNU General Public License - see "
+"the Help menu for details."
+msgstr ""
+"WinMerge поставляється БЕЗ БУДЬ-ЯКОЇ ГАРАНТІЇ. Це вільне ПО і ми привітаємо "
+"його поширення згідно деяких умов; ознайомтеся з GNU General Public License "
+"в меню Довідка для докладнішої інформації."
 
-#, c-format
 msgid "&Abort"
 msgstr "&Перервати"
 
-#, c-format
 msgid "&Retry"
 msgstr "Пов&торювати"
 
-#, c-format
 msgid "&Ignore"
 msgstr "&Нехтувати"
 
-#, c-format
 msgid "Ignore &all"
 msgstr "Нехтувати &всім"
 
-#, c-format
 msgid "&Yes"
 msgstr "&Так"
 
-#, c-format
 msgid "Yes to &all"
 msgstr "Т&ак для всіх"
 
-#, c-format
 msgid "&No"
 msgstr "&Ні"
 
-#, c-format
 msgid "No to a&ll"
 msgstr "Ні д&ля всіх"
 
-#, c-format
 msgid "&Continue"
 msgstr "Про&довжити"
 
-#, c-format
 msgid "&Skip"
 msgstr "П&ропустити"
 
-#, c-format
 msgid "Skip &all"
 msgstr "Проп&устити все"
 
-#, c-format
 msgid "Don't display this &message again."
 msgstr "Не показувати &це повідомлення знову."
 
-msgid "To make this message box visible, press Reset on the Message Boxes page in Options."
+msgid ""
+"To make this message box visible, press Reset on the Message Boxes page in "
+"Options."
 msgstr ""
 
 msgid "Compare/Merge"
 msgstr ""
 
-#, c-format
 msgid "Syntax"
 msgstr ""
 
@@ -3287,30 +2842,24 @@ msgstr ""
 msgid "Project"
 msgstr ""
 
-#, c-format
 msgid "Differences"
 msgstr "Відмінності"
 
 msgid "Message Boxes"
 msgstr ""
 
-#, c-format
 msgid "To:"
 msgstr "На:"
 
-#, c-format
 msgid "From left:"
 msgstr "Зліва:"
 
-#, c-format
 msgid "To left:"
 msgstr "Ліворуч:"
 
-#, c-format
 msgid "From right:"
 msgstr "Справа:"
 
-#, c-format
 msgid "To right:"
 msgstr "Праворуч:"
 
@@ -3324,7 +2873,6 @@ msgstr ""
 msgid "Version %1"
 msgstr "Версія %1"
 
-#, c-format
 msgid "X64"
 msgstr "X64"
 
@@ -3332,7 +2880,6 @@ msgstr "X64"
 msgid "Options (%1)"
 msgstr "Налаштування (%1)"
 
-#, c-format
 msgid "All message boxes are now displayed again."
 msgstr "Тепер всі повідомлення знову відображатимуться."
 
@@ -3343,35 +2890,31 @@ msgstr ""
 "\n"
 "Використайте значення 1 - %1."
 
-#, c-format
 msgid "Open"
 msgstr "Відкрити"
 
-#, c-format
 msgid "Programs|*.exe;*.bat;*.cmd|All Files (*.*)|*.*||"
 msgstr "Програми|*.exe;*.bat;*.cmd|Всі файли (*.*)|*.*||"
 
-#, c-format
 msgid "All Files (*.*)|*.*||"
 msgstr "Всі файли (*.*)|*.*||"
 
-#, c-format
 msgid "WinMerge Project Files (*.WinMerge)|*.WinMerge||"
 msgstr "Файли проєктів WinMerge (*.WinMerge)|*.WinMerge||"
 
-#, c-format
 msgid "Options files (*.ini)|*.ini|All Files (*.*)|*.*||"
 msgstr "Файли конфігурації (*.ini)|*.ini|Всі файли (*.*)|*.*||"
 
-#, c-format
-msgid "Text Files (*.csv;*.asc;*.rpt;*.txt)|*.csv;*.asc;*.rpt;*.txt|All Files (*.*)|*.*||"
-msgstr "Текстові файли (*.csv;*.asc;*.rpt;*.txt)|*.csv;*.asc;*.rpt;*.txt|Всі файли (*.*)|*.*||"
+msgid ""
+"Text Files (*.csv;*.asc;*.rpt;*.txt)|*.csv;*.asc;*.rpt;*.txt|All Files (*.*)|"
+"*.*||"
+msgstr ""
+"Текстові файли (*.csv;*.asc;*.rpt;*.txt)|*.csv;*.asc;*.rpt;*.txt|Всі файли "
+"(*.*)|*.*||"
 
-#, c-format
 msgid "HTML Files (*.htm,*.html)|*.htm;*.html|All Files (*.*)|*.*||"
 msgstr "Файли HTML (*.htm,*.html)|*.htm;*.html|Всі файли (*.*)|*.*||"
 
-#, c-format
 msgid "XML Files (*.xml)|*.xml|All Files (*.*)|*.*||"
 msgstr "Файли XML (*.xml)|*.xml|Всі файли (*.*)|*.*||"
 
@@ -3390,7 +2933,6 @@ msgstr ""
 msgid "File Type"
 msgstr ""
 
-#, c-format
 msgid "Extension"
 msgstr "Розширення"
 
@@ -3418,31 +2960,24 @@ msgstr ""
 msgid "Hidden Items"
 msgstr ""
 
-#, c-format
 msgid "Name"
 msgstr "Ім'я"
 
-#, c-format
 msgid "Location"
 msgstr "Місце розташування"
 
-#, c-format
 msgid "Filters"
 msgstr "Фільтри"
 
-#, c-format
 msgid "[F] "
 msgstr "[F] "
 
-#, c-format
 msgid "Description"
 msgstr "Опис"
 
-#, c-format
 msgid "Select Filename for New Filter"
 msgstr "Вкажіть ім'я файлу для нового фільтра"
 
-#, c-format
 msgid "File Filters (*.flt)|*.flt|All Files (*.*)|*.*||"
 msgstr "Файли фільтрів (*.flt)|*.flt|Всі файли (*.*)|*.*||"
 
@@ -3470,7 +3005,6 @@ msgstr ""
 "\n"
 "Переконайтеся, що тека існує і доступна для записування."
 
-#, c-format
 msgid ""
 "User's filter folder is not defined!\n"
 "\n"
@@ -3492,11 +3026,9 @@ msgstr ""
 "\n"
 "Можливо файл використовується."
 
-#, c-format
 msgid "Locate Filter File to Install"
 msgstr "Вказати  файл фільтра"
 
-#, c-format
 msgid ""
 "Installing filter file failed.\n"
 "\n"
@@ -3506,11 +3038,9 @@ msgstr ""
 "\n"
 "Неможливо скопіювати файл фільтра в теку з фільтрами."
 
-#, c-format
 msgid "Filter file exists. Overwrite?"
 msgstr "Фільтр уже існує. Перезаписати?"
 
-#, c-format
 msgid "Regular expression"
 msgstr "Регулярний вираз"
 
@@ -3521,36 +3051,30 @@ msgid ""
 msgstr ""
 "Фільтри були поновлені. Ви хочете поновити всі відкриті порівняння тек?\n"
 "\n"
-"Якщо ви не хочете поновлювати всі порівняння зараз, Ви можете вибрати Ні і поновити їх згодом."
+"Якщо ви не хочете поновлювати всі порівняння зараз, Ви можете вибрати Ні і "
+"поновити їх згодом."
 
-#, c-format
 msgid "Folder Comparison Results"
 msgstr "Результати порівняння тек"
 
-#, c-format
 msgid "File Comparison"
 msgstr "Порівняння файлів"
 
-#, c-format
 msgid "Untitled Left"
 msgstr "Безіменний ліворуч"
 
-#, c-format
 msgid "Untitled Middle"
 msgstr ""
 
-#, c-format
 msgid "Untitled Right"
 msgstr "Безіменний праворуч"
 
 msgid "Base File"
 msgstr ""
 
-#, c-format
 msgid "Theirs File"
 msgstr "Їхй файл"
 
-#, c-format
 msgid "Mine File"
 msgstr "Мій файл"
 
@@ -3573,7 +3097,6 @@ msgstr ""
 msgid "  Sel: %d | %d"
 msgstr ""
 
-#, c-format
 msgid "Merge"
 msgstr "Об'єднання"
 
@@ -3585,7 +3108,6 @@ msgstr "Відмінність %1 з %2"
 msgid "%1 Differences Found"
 msgstr "%1 відмінностей знайшлося"
 
-#, c-format
 msgid "1 Difference Found"
 msgstr "Знайдена всього одна відмінність"
 
@@ -3597,7 +3119,6 @@ msgid "1 Error Found"
 msgstr ""
 
 #. Abbreviation from "Read Only"
-#, c-format
 msgid "RO"
 msgstr "RO"
 
@@ -3609,7 +3130,6 @@ msgstr "Елемент %1 з %2"
 msgid "Items: %1"
 msgstr "Елементів: %1"
 
-#, c-format
 msgid "Comparing items..."
 msgstr "Триває порівняння..."
 
@@ -3620,54 +3140,42 @@ msgstr ""
 msgid "Select two existing folders/files to compare."
 msgstr "Виберіть дві ІСНУЮЧІ теки або файли для порівняння."
 
-#, c-format
 msgid "Folder Selection"
 msgstr "Вибір теки"
 
-#, c-format
 msgid "Select two (or three) folders/files to compare."
 msgstr ""
 
-#, c-format
 msgid "Left (1st) path is invalid!"
 msgstr ""
 
-#, c-format
 msgid "Middle (2nd) path is invalid!"
 msgstr ""
 
-#, c-format
 msgid "Right (2nd) path is invalid!"
 msgstr ""
 
-#, c-format
 msgid "Right (3rd) path is invalid!"
 msgstr ""
 
-#, c-format
 msgid "Both paths are invalid!"
 msgstr "Обидва шляхи - хибні!"
 
-#, c-format
 msgid "Left (1st) and Middle (2nd) paths are invalid!"
 msgstr ""
 
-#, c-format
 msgid "Left (1st) and Right (3rd) paths are invalid!"
 msgstr ""
 
-#, c-format
 msgid "Middle (2nd) and Right (3rd) paths are invalid!"
 msgstr ""
 
-#, c-format
 msgid "All paths are invalid!"
 msgstr ""
 
 msgid "Only enabled for file comparisons"
 msgstr ""
 
-#, c-format
 msgid "Cannot compare file and folder!"
 msgstr "Неможливе порівняння файлу і теки!"
 
@@ -3691,7 +3199,6 @@ msgstr ""
 "\n"
 "%2"
 
-#, c-format
 msgid "Failed to parse conflict file."
 msgstr "Помилка розбору файлу конфліктів."
 
@@ -3710,7 +3217,6 @@ msgid ""
 "Show only comparison results (not file contents)?"
 msgstr ""
 
-#, c-format
 msgid "Save As"
 msgstr "Зберегти як"
 
@@ -3720,9 +3226,10 @@ msgstr "Зберегти зміни в %1?"
 
 #, c-format
 msgid "%1 is read-only. Override? Or 'No' to save as new filename?"
-msgstr "%1 позначений як лише для читання. Чи згодні ви замінити цей файл? (Не дозволяє вказати нове ім'я файлу)"
+msgstr ""
+"%1 позначений як лише для читання. Чи згодні ви замінити цей файл? (Не "
+"дозволяє вказати нове ім'я файлу)"
 
-#, c-format
 msgid "Error backing up file"
 msgstr "Помилка створення резервної копії"
 
@@ -3818,15 +3325,12 @@ msgstr ""
 "\n"
 "Ви хочете перезавантажити файл?"
 
-#, c-format
 msgid "Save Left File As"
 msgstr "Зберегти лівий файл як"
 
-#, c-format
 msgid "Save Middle File As"
 msgstr ""
 
-#, c-format
 msgid "Save Right File As"
 msgstr "Зберегти правий файл як"
 
@@ -3840,7 +3344,6 @@ msgstr ""
 "%1\n"
 "вилучається. Збережіть копію файлу для продовження."
 
-#, c-format
 msgid ""
 "Cannot merge unsynched documents.\n"
 "\n"
@@ -3950,15 +3453,12 @@ msgstr "Обидва (%1)"
 msgid "All (%1)"
 msgstr ""
 
-#, c-format
 msgid "Left Side - Select Destination Folder:"
 msgstr "Ліва сторона - вибір теки призначення:"
 
-#, c-format
 msgid "Middle Side - Select Destination Folder:"
 msgstr ""
 
-#, c-format
 msgid "Right Side - Select Destination Folder:"
 msgstr "Права сторона - вибір теки призначення:"
 
@@ -4012,11 +3512,9 @@ msgstr "Ви дійсно хочете перемістити?"
 msgid "Are you sure you want to move %d items?"
 msgstr "Ви дійсно хочете перемістити %d елементів?"
 
-#, c-format
 msgid "Confirm Move"
 msgstr "Підтвердження переміщення"
 
-#, c-format
 msgid "Close the folder comparison window?"
 msgstr ""
 
@@ -4030,7 +3528,6 @@ msgstr ""
 msgid "Failed to execute external editor: %1"
 msgstr "Неможливо виконати %1"
 
-#, c-format
 msgid "Unknown archive format"
 msgstr "Невідомий формат архіву"
 
@@ -4039,7 +3536,6 @@ msgid ""
 "Compare as text file?"
 msgstr ""
 
-#, c-format
 msgid "Filename"
 msgstr "Ім'я файлу"
 
@@ -4047,111 +3543,84 @@ msgctxt "DirView|ColumnHeader"
 msgid "Folder"
 msgstr "Тека"
 
-#, c-format
 msgid "Comparison Result"
 msgstr "Результат порівняння"
 
-#, c-format
 msgid "Left Date"
 msgstr "Дата ліворуч"
 
-#, c-format
 msgid "Right Date"
 msgstr "Дата праворуч"
 
-#, c-format
 msgid "Middle Date"
 msgstr ""
 
-#, c-format
 msgid "Left Size"
 msgstr "Розмір ліворуч"
 
-#, c-format
 msgid "Right Size"
 msgstr "Розмір праворуч"
 
-#, c-format
 msgid "Middle Size"
 msgstr ""
 
-#, c-format
 msgid "Right Size (Short)"
 msgstr "Розмір праворуч (скор.)"
 
-#, c-format
 msgid "Left Size (Short)"
 msgstr "Розмір ліворуч (скор.)"
 
-#, c-format
 msgid "Middle Size (Short)"
 msgstr ""
 
-#, c-format
 msgid "Left Creation Time"
 msgstr "Час створення файлу ліворуч"
 
-#, c-format
 msgid "Right Creation Time"
 msgstr "Час створення файлу праворуч"
 
-#, c-format
 msgid "Middle Creation Time"
 msgstr ""
 
-#, c-format
 msgid "Newer File"
 msgstr "Новіший файл"
 
-#, c-format
 msgid "Left File Version"
 msgstr "Версія файлу ліворуч"
 
-#, c-format
 msgid "Right File Version"
 msgstr "Версія файлу праворуч"
 
-#, c-format
 msgid "Middle File Version"
 msgstr ""
 
-#, c-format
 msgid "Short Result"
 msgstr "Спрощений результат"
 
-#, c-format
 msgid "Left Attributes"
 msgstr "Атрибути файлу ліворуч"
 
-#, c-format
 msgid "Right Attributes"
 msgstr "Атрибути файлу праворуч"
 
-#, c-format
 msgid "Middle Attributes"
 msgstr ""
 
-#, c-format
 msgid "Left EOL"
 msgstr "Ліве закінчення рядка"
 
-#, c-format
 msgid "Middle EOL"
 msgstr ""
 
-#, c-format
 msgid "Right EOL"
 msgstr "Праве закінчення рядка"
 
-#, c-format
 msgid "Left Encoding"
 msgstr "Кодування файлу ліворуч"
 
-#, c-format
 msgid "Right Encoding"
 msgstr "Кодування файлу праворуч"
 
-#, c-format
 msgid "Middle Encoding"
 msgstr ""
 
@@ -4162,11 +3631,9 @@ msgctxt "DirView|ColumnHeader"
 msgid "Binary"
 msgstr "Двійковий"
 
-#, c-format
 msgid "Unpacker"
 msgstr "Розпакувальник"
 
-#, c-format
 msgid "Prediffer"
 msgstr "Нехтувач"
 
@@ -4254,19 +3721,15 @@ msgstr ""
 msgid "Hash"
 msgstr ""
 
-#, c-format
 msgid "Unable to compare files"
 msgstr "Неможливо порівняти файли"
 
-#, c-format
 msgid "Item aborted"
 msgstr "Порівняння перерване"
 
-#, c-format
 msgid "File skipped"
 msgstr "Файл пропущений"
 
-#, c-format
 msgid "Folder skipped"
 msgstr "Тека пропущена"
 
@@ -4286,51 +3749,39 @@ msgstr "Лише праворуч: %1"
 msgid "Does not exist in %1"
 msgstr ""
 
-#, c-format
 msgid "Binary files are identical"
 msgstr "Бінарні файли не мають відмінностей"
 
-#, c-format
 msgid "Binary files are different"
 msgstr "Бінарні файли відрізняються"
 
-#, c-format
 msgid "Files are different"
 msgstr "Файли відрізняються"
 
-#, c-format
 msgid "Folders are different"
 msgstr "Теки різні"
 
-#, c-format
 msgid "Left Only"
 msgstr "Лише ліворуч"
 
-#, c-format
 msgid "Right Only"
 msgstr "Лише праворуч"
 
-#, c-format
 msgid "Middle Only"
 msgstr ""
 
-#, c-format
 msgid "No item in left"
 msgstr ""
 
-#, c-format
 msgid "No item in right"
 msgstr ""
 
-#, c-format
 msgid "No item in middle"
 msgstr ""
 
-#, c-format
 msgid "Error"
 msgstr "Помилка"
 
-#, c-format
 msgid "Text files are identical"
 msgstr "Текстові файли однакові"
 
@@ -4343,7 +3794,6 @@ msgstr ""
 msgid " (Left and middle are identical)"
 msgstr ""
 
-#, c-format
 msgid "Text files are different"
 msgstr "Текстові файли різні"
 
@@ -4361,7 +3811,6 @@ msgstr ""
 msgid "Elapsed time: %ld ms"
 msgstr "Пройшло часу: %ld мс"
 
-#, c-format
 msgid "1 item selected"
 msgstr "Вибраний 1 елемент"
 
@@ -4369,71 +3818,54 @@ msgstr "Вибраний 1 елемент"
 msgid "%1 items selected"
 msgstr "Вибрані елементи: %1"
 
-#, c-format
 msgid "Filename or folder name."
 msgstr "Назва файлу або теки."
 
-#, c-format
 msgid "Subfolder name when subfolders are included."
 msgstr "Назви підтек, якщо вони включені."
 
-#, c-format
 msgid "Comparison result, long form."
 msgstr "Результат порівняння, довга форма."
 
-#, c-format
 msgid "Left side modification date."
 msgstr "Час зміни файлу ліворуч."
 
-#, c-format
 msgid "Right side modification date."
 msgstr "Час зміни файлу праворуч."
 
-#, c-format
 msgid "Middle side modification date."
 msgstr ""
 
-#, c-format
 msgid "File's extension."
 msgstr "Розширення файлу."
 
-#, c-format
 msgid "Left file size in bytes."
 msgstr "Розмір лівого файлу у байтах."
 
-#, c-format
 msgid "Right file size in bytes."
 msgstr "Розмір правого файлу у байтах."
 
-#, c-format
 msgid "Middle file size in bytes."
 msgstr ""
 
-#, c-format
 msgid "Left file size abbreviated."
 msgstr "Розмір лівого файлу (скор.)"
 
-#, c-format
 msgid "Right file size abbreviated."
 msgstr "Розмір правого файлу (скор.)"
 
-#, c-format
 msgid "Middle file size abbreviated."
 msgstr ""
 
-#, c-format
 msgid "Left side creation time."
 msgstr "Час створення файлу ліворуч."
 
-#, c-format
 msgid "Right side creation time."
 msgstr "Час створення файлу праворуч."
 
-#, c-format
 msgid "Middle side creation time."
 msgstr ""
 
-#, c-format
 msgid "Tells which side has newer modification date."
 msgstr "Повідомляє, з якого боку зміни новіші."
 
@@ -4446,19 +3878,15 @@ msgstr "Версія файлу праворуч, лише для деяких �
 msgid "Middle side file version, only for some file types."
 msgstr ""
 
-#, c-format
 msgid "Short comparison result."
 msgstr "Результат швидкого порівняння."
 
-#, c-format
 msgid "Left side attributes."
 msgstr "Атрибути ліворуч."
 
-#, c-format
 msgid "Right side attributes."
 msgstr "Атрибути праворуч."
 
-#, c-format
 msgid "Middle side attributes."
 msgstr ""
 
@@ -4471,27 +3899,23 @@ msgstr "Позначка закінчення рядка для правого �
 msgid "Middle side file EOL type."
 msgstr ""
 
-#, c-format
 msgid "Left side encoding."
 msgstr "Кодування ліворуч."
 
-#, c-format
 msgid "Right side encoding."
 msgstr "Кодування праворуч."
 
-#, c-format
 msgid "Middle side encoding."
 msgstr ""
 
-#, c-format
 msgid "Number of ignored differences in file. Ignored and cannot be merged."
-msgstr "Кількість ігнорованих відмінностей у файлі. Ці відмінності були ігноровані WinMerge і не можуть бути опрацьовані."
+msgstr ""
+"Кількість ігнорованих відмінностей у файлі. Ці відмінності були ігноровані "
+"WinMerge і не можуть бути опрацьовані."
 
-#, c-format
 msgid "Number of differences in file (excluding ignored)."
 msgstr "Кількість відмінностей у файлі. Ігноровані відмінності не враховані."
 
-#, c-format
 msgid "Shows an asterisk (*) if the file is binary."
 msgstr "Показати зірочку (*) якщо файл бінарний."
 
@@ -4509,23 +3933,18 @@ msgstr "Порівняння %1 з %2"
 msgid "Compare %1 with %2 and %3"
 msgstr ""
 
-#, c-format
 msgid "Comma-separated list"
 msgstr "Список, розділений комами"
 
-#, c-format
 msgid "Tab-separated list"
 msgstr "Список, розділений табуляторами"
 
-#, c-format
 msgid "Simple HTML"
 msgstr "Простий HTML"
 
-#, c-format
 msgid "Simple XML"
 msgstr "Простий XML"
 
-#, c-format
 msgid "Report file already exists. Overwrite?"
 msgstr "Файл звіту вже існує. Перезаписати??"
 
@@ -4537,47 +3956,46 @@ msgstr ""
 "Помилка при створенні звіту:\n"
 "%1"
 
-#, c-format
 msgid "Report created successfully."
 msgstr "Звіт успішно створений."
 
 msgid "Cannot add a synchronization point at this line."
 msgstr ""
 
-#, c-format
 msgid "Same file is opened in both panes."
 msgstr "На обох панелях відкритий той самий файл."
 
-#, c-format
 msgid "Selected files are identical."
 msgstr "Вибрані файли ідентичні."
 
-#, c-format
 msgid "An error occurred while comparing files."
 msgstr "При порівнянні файлів виникла помилка."
 
-#, c-format
 msgid "Could not create temporary files. Check your temporary path settings."
-msgstr "Неможливо створити тимчасові файли. Перевірте налаштування для шляхів з тимчасовими файлами."
+msgstr ""
+"Неможливо створити тимчасові файли. Перевірте налаштування для шляхів з "
+"тимчасовими файлами."
 
 msgid ""
 "Files use different EOL.\n"
 "\n"
 "Treat all EOL as equivalent?\n"
 "\n"
-"Set 'Ignore EOL differences (Windows/Unix/Mac)' in Compare section of Options."
+"Set 'Ignore EOL differences (Windows/Unix/Mac)' in Compare section of "
+"Options."
 msgstr ""
 "Ці файли мають різні типи позначок закінчень рядка.\n"
 "\n"
-"Хочете, щоб в цьому порівнянні вони ігнорувалися (вважалися рівнозначними) ?\n"
+"Хочете, щоб в цьому порівнянні вони ігнорувалися (вважалися "
+"рівнозначними) ?\n"
 "\n"
-"Увага: Якщо вас не цікавлять розходження в закінченнях рядка, налаштуйте опцію 'Нехтувати різницею в закінченнях рядків' на вкладці Порівняння в Налаштуваннях."
+"Увага: Якщо вас не цікавлять розходження в закінченнях рядка, налаштуйте "
+"опцію 'Нехтувати різницею в закінченнях рядків' на вкладці Порівняння в "
+"Налаштуваннях."
 
-#, c-format
 msgid "Selected folder is invalid."
 msgstr "Неможливо відкрити вибрану теку."
 
-#, c-format
 msgid "Cannot open a binary file in Editor."
 msgstr "Неможливо відкрити бінарний файл у редакторі."
 
@@ -4596,19 +4014,15 @@ msgstr ""
 msgid "Copy all differences to other file?"
 msgstr ""
 
-#, c-format
 msgid "Move to next file?"
 msgstr ""
 
-#, c-format
 msgid "Move to previous file?"
 msgstr ""
 
-#, c-format
 msgid "Move to next page?"
 msgstr ""
 
-#, c-format
 msgid "Move to previous page?"
 msgstr ""
 
@@ -4621,34 +4035,30 @@ msgstr ""
 #, c-format
 msgid ""
 "Different codepages: left (cp%d), right (cp%d).\n"
-"Display in codepage (better display) or default Windows codepage (safer merging)?\n"
+"Display in codepage (better display) or default Windows codepage (safer "
+"merging)?\n"
 "(Recommended: default Windows codepage)"
 msgstr ""
 "Різні кодування: лівий файл - (cp%d), правий файл - (cp%d).\n"
-"Кожний з файлів може бути показаний в своєму кодуванні, але їхнє злиття або копіювання може пошкодити інформацію.\n"
+"Кожний з файлів може бути показаний в своєму кодуванні, але їхнє злиття або "
+"копіювання може пошкодити інформацію.\n"
 "Показати обидва файли в системному кодуванні (рекомендується)?"
 
-#, c-format
 msgid "Information lost due to encoding errors: both files"
 msgstr "Інформація втрачена через помилкове кодування: обидва файли"
 
-#, c-format
 msgid "Information lost due to encoding errors: first file"
 msgstr ""
 
-#, c-format
 msgid "Information lost due to encoding errors: second file"
 msgstr ""
 
-#, c-format
 msgid "Information lost due to encoding errors: third file"
 msgstr ""
 
-#, c-format
 msgid "No difference"
 msgstr "Нема відмінностей"
 
-#, c-format
 msgid "Line difference"
 msgstr "Рядок відмінностей"
 
@@ -4681,15 +4091,12 @@ msgstr ""
 msgid "EOL changes are conflicting."
 msgstr ""
 
-#, c-format
 msgid "Location Pane"
 msgstr "Місця розташування"
 
-#, c-format
 msgid "Diff Pane"
 msgstr "Відмінності"
 
-#, c-format
 msgid "Patch file written."
 msgstr "Латка успішно записана."
 
@@ -4699,7 +4106,6 @@ msgstr ""
 msgid "Second item not found!"
 msgstr ""
 
-#, c-format
 msgid "Patch file already exists. Overwrite?"
 msgstr "Латка вже існує. Хочете перезаписати її?"
 
@@ -4707,15 +4113,12 @@ msgstr "Латка вже існує. Хочете перезаписати її
 msgid "[%1 files selected]"
 msgstr "[%1 файлів вибрані]"
 
-#, c-format
 msgid "Normal"
 msgstr "Нормальний"
 
-#, c-format
 msgid "Context"
 msgstr "Контекст"
 
-#, c-format
 msgid "Unified"
 msgstr "Уніфікований"
 
@@ -4730,11 +4133,9 @@ msgstr "Зазначений шлях для кінцевого файлу не 
 msgid "Specify an output file."
 msgstr "Вказати кінцевий файл."
 
-#, c-format
 msgid "Cannot create patch from binary files."
 msgstr "Неможливо створити латку з двійкових файлів."
 
-#, c-format
 msgid ""
 "Save all files first.\n"
 "\n"
@@ -4744,7 +4145,6 @@ msgstr ""
 "\n"
 "Створення латки вимагає збереження усіх змін."
 
-#, c-format
 msgid "Folder does not exist."
 msgstr "Тека не існує."
 
@@ -4756,33 +4156,27 @@ msgstr ""
 "Підтримка архівів не ввімкнена.\n"
 " \n"
 "Не знайдені всі необхідні компоненти (7-Zip і/або Merge7z*.dll) . \n"
-"Подивіться інструкцію, щоб довідатися більше про підтримку архівів і як її ввімкнути."
+"Подивіться інструкцію, щоб довідатися більше про підтримку архівів і як її "
+"ввімкнути."
 
-#, c-format
 msgid "Select file for export"
 msgstr "Вибрати файл для експорту"
 
-#, c-format
 msgid "Select file for import"
 msgstr "Вибрати файл для імпорту"
 
-#, c-format
 msgid "Options imported from file."
 msgstr "Опції, імпортовані з файлу."
 
-#, c-format
 msgid "Options exported to file."
 msgstr "Опції, експортовані в файл."
 
-#, c-format
 msgid "Failed to import options from file."
 msgstr "Помилка імпорту опцій з файлу."
 
-#, c-format
 msgid "Failed to write options to file."
 msgstr "Помилка експорту опцій в файл."
 
-#, c-format
 msgid ""
 "Close multiple compare windows?\n"
 "\n"
@@ -4792,7 +4186,6 @@ msgstr ""
 "\n"
 "Продовжити?"
 
-#, c-format
 msgid "Mixed"
 msgstr "Мішаний"
 
@@ -4800,7 +4193,6 @@ msgctxt "EOL Type"
 msgid "Binary"
 msgstr "Двійковий"
 
-#, c-format
 msgid "None"
 msgstr "Нема"
 
@@ -4811,69 +4203,57 @@ msgstr ""
 msgid "New Pattern"
 msgstr ""
 
-#, c-format
 msgid "Type"
 msgstr "Тип"
 
-#, c-format
 msgid "Editor script"
 msgstr "Сценарій редактора"
 
-#, c-format
 msgid ""
 "\n"
 "Difference in Current Line (F4)"
 msgstr ""
 
-#, c-format
 msgid ""
 "\n"
 "Options"
 msgstr ""
 
-#, c-format
 msgid ""
 "\n"
 "Refresh (F5)"
 msgstr ""
 
-#, c-format
 msgid ""
 "\n"
 "Previous Difference (Alt+Up)"
 msgstr ""
 
-#, c-format
 msgid ""
 "\n"
 "Next Difference (Alt+Down)"
 msgstr ""
 
-#, c-format
 msgid ""
 "\n"
 "Previous Conflict (Alt+Shift+Up)"
 msgstr ""
 
-#, c-format
 msgid ""
 "\n"
 "Next Conflict (Alt+Shift+Down)"
 msgstr ""
 
-#, c-format
 msgid ""
 "\n"
 "First Difference (Alt+Home)"
 msgstr ""
 
-#, c-format
 msgid ""
 "\n"
 "Current Difference (Alt+Enter)"
 msgstr ""
 
-#, c-format
 msgid ""
 "\n"
 "Last Difference (Alt+End)"
@@ -4913,7 +4293,6 @@ msgstr ""
 "\n"
 "Скопіювати все на ліву панель"
 
-#, c-format
 msgid ""
 "\n"
 "Auto Merge (Ctrl+Alt+M)"
@@ -4940,13 +4319,13 @@ msgid ""
 msgstr ""
 
 msgid "Adapted unpacker applied to both files (one needs extension)."
-msgstr "Автоматичний підбір розпакувальника (вкажіть розширення хоча б одного з файлів)."
+msgstr ""
+"Автоматичний підбір розпакувальника (вкажіть розширення хоча б одного з "
+"файлів)."
 
-#, c-format
 msgid "No Prediffer (Normal)"
 msgstr "Без попереднього порівняння"
 
-#, c-format
 msgid "Suggested Plugins"
 msgstr "Рекомендовані доповнення"
 
@@ -4969,15 +4348,12 @@ msgstr ""
 msgid " - All rights reserved."
 msgstr ""
 
-#, c-format
 msgid "Failed to download latest version information"
 msgstr ""
 
-#, c-format
 msgid "Plugin Settings"
 msgstr "Налаштування доповнення"
 
-#, c-format
 msgid "WSH not found - .sct scripts disabled"
 msgstr "WSH не знайдений - .sct сценарії вимкнуті"
 
@@ -4992,47 +4368,36 @@ msgctxt "Options dialog|General|Open dialog Auto completion"
 msgid "Disabled"
 msgstr "Вимкнено"
 
-#, c-format
 msgid "From file system"
 msgstr "Як на диску"
 
-#, c-format
 msgid "From Most Recently Used list"
 msgstr "Як в списку нещодавніх документів"
 
-#, c-format
 msgid "No Highlighting"
 msgstr "Не підсвічувати"
 
-#, c-format
 msgid "Batch"
 msgstr "Бетч"
 
-#, c-format
 msgid "Portable Object"
 msgstr "Portable Object"
 
-#, c-format
 msgid "Resources"
 msgstr "Ресурси"
 
-#, c-format
 msgid "Shell"
 msgstr "Shell"
 
-#, c-format
 msgid "Close &Left Tabs"
 msgstr ""
 
-#, c-format
 msgid "Close R&ight Tabs"
 msgstr ""
 
-#, c-format
 msgid "Close &Other Tabs"
 msgstr ""
 
-#, c-format
 msgid "Enable &Auto Max Width"
 msgstr ""
 
@@ -5042,6 +4407,7 @@ msgstr ""
 msgid "W&rap Text"
 msgstr ""
 
+#, c-format
 msgid "%1 is not installed."
 msgstr ""
 
@@ -5049,11 +4415,9 @@ msgstr ""
 msgid "%1 does not exist. Create it?"
 msgstr ""
 
-#, c-format
 msgid "Failed to create folder."
 msgstr ""
 
-#, c-format
 msgid ""
 "Parameters:\n"
 "$file: Current file path\n"
@@ -5242,7 +4606,6 @@ msgctxt "Options dialog|General|Single instance mode"
 msgid "Disabled"
 msgstr "Вимкнено"
 
-#, c-format
 msgid "Allow only one instance to run"
 msgstr "Дозволити запуск лише однієї копії"
 
