@@ -355,7 +355,7 @@ msgid "&View"
 msgstr "Ви&гляд"
 
 msgid "Ta&b Bar"
-msgstr "Панель &закладок"
+msgstr "Панель &вкладок"
 
 msgid "&View Tab Bar"
 msgstr "Показати панель &вкладок"
@@ -2441,7 +2441,7 @@ msgid "Select Codepage for"
 msgstr "Вибрати сторінку кодування для"
 
 msgid "&File Loading:"
-msgstr "Завант. файлу:"
+msgstr "Завантаження &файлу:"
 
 msgid "File &Saving:"
 msgstr "Збереження файлу:"
@@ -2501,7 +2501,7 @@ msgid "Create backup files for:"
 msgstr "Створити резервні файли для:"
 
 msgid "&Folder compare"
-msgstr "Порівняння &тек"
+msgstr "Порівняння &папок"
 
 msgid "Fil&e compare"
 msgstr "Порівняння &файлів"
@@ -4760,8 +4760,9 @@ msgstr "Негайно"
 msgid "Al&l"
 msgstr "Ус&і"
 
+#  Context of the string - "Plugin type: Others". "Інший" is singular and it feets better.
 msgid "&Others"
-msgstr "&Інші"
+msgstr "&Інший"
 
 #, c-format
 msgid "Missing plugin name in pipeline: %1"
